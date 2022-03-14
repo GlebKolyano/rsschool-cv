@@ -35,3 +35,11 @@ function nthFibo(n) {
   return n < 2 ? 0 : n == 2 ? 1 : nthFibo(n - 1) + nthFibo(n - 2);
 }
 ```
+
+### Education
+
+---
+
+- _CS50 course_
+- _HTML Acadyme: HTML, CSS, JS_
+- **Books:** _John Resig: Secrets of the JavaScript Ninja_ **and** _David Flanagan: JS. The Definitive Guide_
