@@ -24,3 +24,14 @@ My goal of studying on the course is to improve the knowledge already acquired a
 - _HTML, CSS, JavaScript_
 - _Angular, React_
 - _Redux, Git, SCSS, BEM_
+
+### Code Example
+
+---
+
+```javascript
+function nthFibo(n) {
+  // Return the n-th number in the Fibonacci Sequence
+  return n < 2 ? 0 : n == 2 ? 1 : nthFibo(n - 1) + nthFibo(n - 2);
+}
+```
