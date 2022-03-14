@@ -1,7 +1,5 @@
 # Gleb Kolyano
 
----
-
 ### Contacts
 
 ---
