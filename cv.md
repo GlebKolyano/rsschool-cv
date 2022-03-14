@@ -43,3 +43,16 @@ function nthFibo(n) {
 - _CS50 course_
 - _HTML Acadyme: HTML, CSS, JS_
 - **Books:** _John Resig: Secrets of the JavaScript Ninja_ **and** _David Flanagan: JS. The Definitive Guide_
+
+### Projects
+
+---
+
+[Real Estate App](https://real-estate-app-woarhqg9m-glebkolyano.vercel.app/)
+/ [github link](https://github.com/GlebKolyano/real-estate-app)
+
+### English
+
+---
+
+**Level:** A2 _(I'm aiming for level B1. At the moment I regularly study English every day.)_
