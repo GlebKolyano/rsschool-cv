@@ -15,3 +15,11 @@
 ---
 
 My goal of studying on the course is to improve the knowledge already acquired and learn new things.
+
+### Skills
+
+---
+
+- _HTML, CSS, JavaScript_
+- _Angular, React_
+- _Redux, Git, SCSS, BEM_
